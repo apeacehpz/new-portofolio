@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\rest-API\\wpu-rest-client"
+		},
+		{
+			"path": "..\\..\\..\\rest-API\\wpu-rest-server"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\..\\CMS-Live"
+		},
+		{
+			"path": "..\\..\\..\\Belajar\\Appointment"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Portofolio"
+	}
+}
